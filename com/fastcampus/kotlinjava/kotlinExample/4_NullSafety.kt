@@ -19,5 +19,5 @@ fun main() {
 //    val c: String? = null
 //    val d = c!!.length
 
-    println(Java_NullSafety.getNullStr()?.length ?: 0)
+//    println(Java_NullSafety.getNullStr()?.length ?: 0)
 }
